@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Ronny Barbosa 👋
 
 Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário incríveis e experiências web interativas. Meu objetivo é transformar ideias em realidade através de código limpo e eficiente.
 
@@ -14,14 +14,6 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário incr�
 - TypeScript
 - Next.js
 - JAMstack
-
-## 🔭 Projetos Recentes
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- [Nome do Projeto 1](link-para-o-projeto): Breve descrição do que faz.
-- [Nome do Projeto 2](link-para-o-projeto): Breve descrição do que faz.
-- [Nome do Projeto 3](link-para-o-projeto): Breve descrição do que faz.
 
 ## 📫 Como me Encontrar
 
@@ -39,5 +31,5 @@ Se você tiver alguma dúvida ou quiser colaborar em algum projeto, sinta-se à 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hawkinssss&show_icons=true&theme=radical)
 
