@@ -23,3 +23,5 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário incr�
 ## 🚀 Sobre Mim
 
 Com vários anos de experiência na criação de sites responsivos e aplicações web, estou sempre em busca de novos desafios e oportunidades para crescer e aprender. Acredito no poder da colaboração e no impacto positivo que a tecnologia pode ter na vida das pessoas.
+
+Atualmente, estudo Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie, onde estou aprofundando meus conhecimentos e habilidades em desenvolvimento de software.
